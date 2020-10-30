@@ -3,7 +3,7 @@ Orthography conversion for Ume Saami
 
 ## Description
 
-A conversion script implementing a mechanical conversion from Wolfgang Schlachter's (1958)
+This is a conversion script implementing a mechanical conversion from Wolfgang Schlachter's (1958)
 dictionary spelling to current Ume Saami orthography (approved 2016, dictionary by
 Henrik Barruk 2018).
 
@@ -40,3 +40,4 @@ Optional arguments:
 
 ## License
 
+See [LICENSE](LICENSE).
