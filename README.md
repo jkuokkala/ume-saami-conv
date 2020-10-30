@@ -9,14 +9,14 @@ Henrik Barruk 2018).
 
 The conversion has a number of known shortcomings partly due to the peculiarities of
 Schlachter's markup and source dialect.
-For instance some vowel conversions can not be automatized correctly due to syncope phenomena.
+For instance some non-initial-syllable vowel conversions can not be automatized correctly due to syncope phenomena.
 The distinction between back /ï/ and front /i/ is not consistently deducible from Schlachter's 
 spelling, so only /i/ is used here as well. 
 Also the phoneme /đ/ (~ /r/) is represented by d in Schlachter and thus undifferentiable from 
 a normal /d/.
 
 The converted spelling is more detailed than the standard in that overlong geminates are
-marked with a straight apostrophe /'/, e.g. beäg'ga ’storm’ (can be optionally turned off).
+marked with a straight apostrophe /'/, e.g. /beäg'ga/ ’storm’ (can be optionally turned off).
 The distinction between long (open) /å/ and short (closed) /o/, which is not
 marked in the standard orthography, can also optionally be retained; see Usage.
 The superscript vertical line, which Schlachter occasionally uses to mark an elided 
