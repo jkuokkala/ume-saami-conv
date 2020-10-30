@@ -25,7 +25,7 @@ The superscript vertical line, which Schlachter occasionally uses to mark an eli
 ## Usage
 
 By default, the program converts all input text and outputs the result.
-The -f option can be used to only convert a single (TAB-separated) column of an input line.
+The -f option can be used to only convert a single (TAB-separated) column of each input line.
 
 Optional arguments:
 ```
